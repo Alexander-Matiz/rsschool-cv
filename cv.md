@@ -28,3 +28,14 @@ To gain the first work experience, I read books, study at courses and marathons.
 + Html Academy (HTML & CSS) - 2019  year, 3 months
 + WDI Design School - 2019 year, 1 month
 + WebForMySelf (Java Script) - 2020 year, 1 month
+
+### Education
+Donetsk Polytechnic College, specialty: Programming in computer systems\
+(2017 - 2020)
+
+#### Completed courses:
++ Html Academy - 2019 (HTML & CSS) year, 3 months
++ WDI Design School - 2019 year, 1 month
++ WebForMySelf (Java Script) - 2020 year, 1 month
+
+#### English - level A1
