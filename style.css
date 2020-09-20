@@ -322,3 +322,7 @@ h3 {
   height: 240px;
   border-radius: 50%;
 }
+
+.main-info {
+  padding-bottom: 40px;
+}
